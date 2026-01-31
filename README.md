@@ -17,7 +17,7 @@ controlled experiments and finite element modeling .
 - Design of lattice unit cells with controlled relative density
 - Fabrication using FDM ( Prusa printer )
 - Quasi - static compression testing
-- Finite element modeling ( ANSYS / Abaqus )
+- Finite element modeling ( ANSYS / Abaqus / LS-DYNA )
 - Comparison of force - displacement and energy absorption metrics
 ## Methods
 ### Experimental
