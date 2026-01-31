@@ -38,5 +38,5 @@ controlled experiments and finite element modeling .
 Ongoing
 
 ## Author
-Usman Abdullahi Idris
+Usman Abdullahi Idris, 
 MSc Mechanical Design and Manufacturing, Sakarya University, Turkey
